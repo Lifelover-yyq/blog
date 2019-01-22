@@ -1,2 +1,3 @@
 # yangyuqi.github.io
-个人博客
+**菜鸡的个人博客**
+*just for fun*
